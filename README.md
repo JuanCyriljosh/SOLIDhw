@@ -65,4 +65,5 @@ Generated invoice: invoice123.jpg<br>
 Sent email to: cyriljoshroberto.juan@neu.edu.ph</p>
 
 ## UML Class Diagram
+![Blank diagram (7)](https://github.com/user-attachments/assets/daf2051a-5a0d-4e16-9a5d-efd78a5ef642)
 
